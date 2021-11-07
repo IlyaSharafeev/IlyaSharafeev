@@ -4,7 +4,7 @@
 
 ### How to contact me ?
 
-![Telegram](https://t.me/IlyaSharafeev)(https://img.shields.io/badge/Telegram-75BF8C?style=for-the-badge&logo=telegram)
+[![Telegram](https://t.me/IlyaSharafeev)](https://img.shields.io/badge/Telegram-75BF8C?style=for-the-badge&logo=telegram)
 ![Instagram](https://img.shields.io/badge/Instagram-75BF8C?style=for-the-badge&logo=instagram)
 ![Telegram](https://img.shields.io/badge/Gmail-75BF8C?style=for-the-badge&logo=gmail)
 

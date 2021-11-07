@@ -3,9 +3,9 @@
 ># I am a beginner web developer looking for prospects
 >
 >## About me:
-> Age: <strong>18</strong><br>
-Web development for me is both a job and a hobby <br>
-I plan to become <strong>Middle Javascript Engineer</strong> in 2 years
+>### Age: <strong>18</strong><br>
+>### Web development for me is both a job and a hobby <br>
+>### I plan to become <strong>Middle Javascript Engineer</strong> in 2 years
 
 >## My skills :
 >![HTML5](https://img.shields.io/badge/HTML5-75BF8C?style=for-the-badge&logo=html5)

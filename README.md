@@ -5,6 +5,6 @@
 ### How to contact me ?
 
 [![Telegram](https://img.shields.io/badge/Telegram-75BF8C?style=for-the-badge&logo=telegram)](https://t.me/IlyaSharafeev)
-![Instagram](https://img.shields.io/badge/Instagram-75BF8C?style=for-the-badge&logo=instagram)
-![Telegram](https://img.shields.io/badge/Gmail-75BF8C?style=for-the-badge&logo=gmail)
+[![Instagram](https://img.shields.io/badge/Instagram-75BF8C?style=for-the-badge&logo=instagram)](https://www.instagram.com/_pozitivchik11/?hl=ru)
+[![Gmail](https://img.shields.io/badge/Gmail-75BF8C?style=for-the-badge&logo=gmail)](ilyasharafeev01@gmail.com)
 

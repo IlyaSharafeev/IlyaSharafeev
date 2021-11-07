@@ -2,7 +2,7 @@
 
 ># I am a beginner web developer looking for prospects 🧠
 >
->## <b>About me:</b>
+>## 😜 <b>About me:</b>
 >### Age: <strong>18</strong><br>
 >### Web development for me is both a job and a hobby <br>
 >### I plan to become <strong>Middle Javascript Engineer</strong> in 2 years ✌

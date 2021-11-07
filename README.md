@@ -24,5 +24,6 @@
 
 >## 🔎  My portfolio:
 >[![Codepen](https://img.shields.io/badge/Codepen-75BF8C?style=for-the-badge&logo=codepen)](https://codepen.io/Sharafeev)
+>[![Leetcode](https://img.shields.io/badge/Leetcode-75BF8C?style=for-the-badge&logo=leetcode)]()
 
 

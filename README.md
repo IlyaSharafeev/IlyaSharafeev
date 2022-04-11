@@ -3,14 +3,13 @@
 ># I am a beginner web developer looking for prospects 🧠
 >
 >## 😜 <b>About me:</b>
->### Age: <strong>18</strong><br>
 >### Web development for me is both a job and a hobby <br>
 >### I welcome you to my page! <br>
 >### I'll tell you briefly about myself, because you are clearly behind this ...<br>
 >### I am a progressive web developer with 1 year of experience, who is ready to grow and grow, I mainly write on the view framework, but if necessary I will quickly >### switch to another framework.
 >### I live in the city of Dnipro, Ukraine. <br>
->### My goal is to grow to a senior web developer in a large company in a European country, I will be glad to chat in a telegram!<br>
->### My telegram https://t.me/IlyaSharafeev<br>
+>### My goal is to grow to a senior web developer in a large company in a European country, I will be glad to chat in a telegram! 🎯<br>
+>### My telegram https://t.me/IlyaSharafeev ✌<br> 
 ><hr>
 
 >## 😇 My skills  : 

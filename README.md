@@ -15,9 +15,9 @@
 ![TS](https://img.shields.io/badge/TypeScript-75BF8C?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/React(Redux)-75BF8C?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-75BF8C?style=for-the-badge&logo=Bootstrap)
-![NodeJS](https://img.shields.io/badge/NodeJS-75BF8C?style=for-the-badge&logo=NodeJS)
+![NodeJS](https://img.shields.io/badge/Node.js-75BF8C?style=for-the-badge&logo=Node.js)
 ![VueJS](https://img.shields.io/badge/Vue.js-75BF8C?style=for-the-badge&logo=Vue.js)
-![](https://img.shields.io/badge/Sass-75BF8C?style=for-the-badge&logo=Sass)
+![Sass](https://img.shields.io/badge/Sass-75BF8C?style=for-the-badge&logo=Sass)
 
 >## ☎ How to contact me ?
 >[![Telegram](https://img.shields.io/badge/Telegram-75BF8C?style=for-the-badge&logo=telegram)](https://t.me/IlyaSharafeev)

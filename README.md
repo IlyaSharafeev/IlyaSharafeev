@@ -17,7 +17,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-75BF8C?style=for-the-badge&logo=Bootstrap)
 ![NodeJS](https://img.shields.io/badge/NodeJS-75BF8C?style=for-the-badge&logo=NodeJS)
 ![VueJS](https://img.shields.io/badge/Vue-75BF8C?style=for-the-badge&logo=Vue)
-![Sass]
+![Sass](https://img.shields.io/badge/Vue-75BF8C?style=for-the-badge&logo=)
 
 >## ☎ How to contact me ?
 >[![Telegram](https://img.shields.io/badge/Telegram-75BF8C?style=for-the-badge&logo=telegram)](https://t.me/IlyaSharafeev)

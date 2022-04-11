@@ -29,7 +29,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-75BF8C?style=for-the-badge&logo=gmail)](https://note-pad.net/ru/read/4487b6bf6ffc8125d83813151da8ea80)
 
 >## 🔎  My portfolio:
->[![Codepen](https://img.shields.io/badge/Codepen-75BF8C?style=for-the-badge&logo=codepen)](https://codepen.io/Sharafeev)
+>[![Egolist](https://img.shields.io/badge/Egolist-75BF8C?style=for-the-badge&logo=codepen)](https://egolist.ua/)
 >[![Leetcode](https://img.shields.io/badge/Leetcode-75BF8C?style=for-the-badge&logo=leetcode)](https://leetcode.com/IlyaSharafeev/)
 >[![JS30Challenge](https://img.shields.io/badge/30artworks-75BF8C?style=for-the-badge&logo=Javascript)](https://github.com/IlyaSharafeev/JS_30Challenge)
 

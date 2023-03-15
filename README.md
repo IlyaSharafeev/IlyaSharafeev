@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Ilya Sharafeev,  I'm a Software Engineer at Citibank, and I've been working in tech since 2006. 
+I'm Ilya Sharafeev,  I'm a Software Engineer at Onix-Systems, and I've been working in tech since 2021. 
 
 I love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner) and [books](https://www.packtpub.com/books/info/authors/loiane-groner). 
 

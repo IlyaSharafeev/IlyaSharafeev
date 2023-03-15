@@ -32,5 +32,5 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![WebStorm](https://img.shields.io/badge/-WebStorm-007ACC?style=flat-square&logo=webstorm&logoColor=black)
+![WebStorm](https://img.shields.io/badge/-WebStorm-007ACC?style=flat-square&logo=webstorm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)

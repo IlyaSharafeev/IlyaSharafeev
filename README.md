@@ -23,6 +23,7 @@ These are some of the technologies and tools that I work with:
 ![Vue.js](https://img.shields.io/badge/-Vue-white?style=flat-square&logo=vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js&logoColor=green)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Pug](https://img.shields.io/badge/-Pug-black?style=flat-square&logo=pug&logoColor=red)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss&logoColor=blue)

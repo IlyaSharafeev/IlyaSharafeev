@@ -7,7 +7,6 @@
 >### I welcome you to my page! <br>
 >### I'll tell you briefly about myself, because you are clearly behind this ...<br>
 >### I am a progressive web developer with 1 year of experience, who is ready to grow and grow, I mainly write on the view framework, but if necessary I will quickly >### switch to another framework.
->### I live in the city of Dnipro, Ukraine. <br>
 >### My goal is to grow to a senior web developer in a large company in a European country, I will be glad to chat in a telegram! 🎯<br>
 >### My telegram https://t.me/IlyaSharafeev ✌<br> 
 ><hr>
@@ -27,10 +26,3 @@
 >[![Telegram](https://img.shields.io/badge/Telegram-75BF8C?style=for-the-badge&logo=telegram)](https://t.me/IlyaSharafeev)
 [![Instagram](https://img.shields.io/badge/Instagram-75BF8C?style=for-the-badge&logo=instagram)](https://www.instagram.com/_pozitivchik11/?hl=ru)
 [![Gmail](https://img.shields.io/badge/Gmail-75BF8C?style=for-the-badge&logo=gmail)](https://note-pad.net/ru/read/4487b6bf6ffc8125d83813151da8ea80)
-
->## 🔎  My portfolio:
->[![Egolist](https://img.shields.io/badge/Egolist-75BF8C?style=for-the-badge&logo=codepen)](https://egolist.ua/)
->[![Leetcode](https://img.shields.io/badge/Leetcode-75BF8C?style=for-the-badge&logo=leetcode)](https://leetcode.com/IlyaSharafeev/)
->[![JS30Challenge](https://img.shields.io/badge/30artworks-75BF8C?style=for-the-badge&logo=Javascript)](https://github.com/IlyaSharafeev/JS_30Challenge)
-
-

@@ -3,7 +3,7 @@
 I'm Ilya Sharafeev,  I'm a Software Engineer at Onix-Systems, and I've been working in tech since 2021. 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/IlyaSharafeev)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)](https://instagram.com/ilya__sharafeev?igshid=ZDdkNTZiNTM=)
 
 ____
 

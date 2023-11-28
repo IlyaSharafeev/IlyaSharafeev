@@ -1,30 +1,29 @@
-### Hi there 👋
+# Hello, I'm Ilya Sharafeev!
 
-I'm Ilya Sharafeev,  I'm a Software Engineer at Onix-Systems, and I've been working in tech since 2021. 
+## Frontend Developer
 
-[![Telegram](https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/IlyaSharafeev)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-red?color=white&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D1%88%D0%B0%D1%80%D0%B0%D1%84%D0%B5%D0%B5%D0%B2-6428891ba/)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)](https://instagram.com/ilya__sharafeev?igshid=ZDdkNTZiNTM=)
+### About Me
+I am a passionate frontend developer specializing in creating high-quality web interfaces and user experiences. I have a strong focus on Vue.js, Nuxt.js, Astro, and Ionic.
 
-____
+### Technologies
+- **Vue2/3**
+- **Nuxt.js**
+- **Astro**
+- **Ionic & Vue.js**
 
-## ⚡ Technologies
+### Education
+- Bachelor's Degree, Oles Honchar Dnipro National University
 
-These are some of the technologies and tools that I work with:
+### Personal Interests
+- Camping 🏕️
+- Gym 🏋️
+- Snowboarding 🏂
+- Chess ♟️
+- Basketball 🏀
+- Reading 📚
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vue-white?style=flat-square&logo=vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js&logoColor=green)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Pug](https://img.shields.io/badge/-Pug-black?style=flat-square&logo=pug&logoColor=red)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss&logoColor=blue)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![WebStorm](https://img.shields.io/badge/-WebStorm-007ACC?style=flat-square&logo=webstorm&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Connect with Me
+- **Telegram**: [IlyaSharafeev](https://t.me/IlyaSharafeev)
+- **Instagram**: [@ilya__sharafeev](https://instagram.com/ilya__sharafeev?igshid=NGExMmI2YTkyZg==)
+- **GitHub**: [@IlyaSharafeev](https://github.com/IlyaSharafeev)
+- **LinkedIn**: [Илья Шарафеев](https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D1%88%D0%B0%D1%80%D0%B0%D1%84%D0%B5%D0%B5%D0%B2-6428891ba/)

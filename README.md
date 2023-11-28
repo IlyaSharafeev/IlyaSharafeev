@@ -1,3 +1,4 @@
+
 # Hello, I'm Ilya Sharafeev!
 
 ## Frontend Developer
@@ -6,7 +7,7 @@
 I am a passionate frontend developer specializing in creating high-quality web interfaces and user experiences. I have a strong focus on Vue.js, Nuxt.js, Astro, and Ionic.
 
 ### Technologies
-- **Vue2/3**
+- **Vue2/3** ![vue-js](https://icons8.com/icon/6WRLrWVAXidL/vue.js-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications)
 - **Nuxt.js**
 - **Astro**
 - **Ionic & Vue.js**

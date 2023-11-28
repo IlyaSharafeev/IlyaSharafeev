@@ -7,7 +7,7 @@
 I am a passionate frontend developer specializing in creating high-quality web interfaces and user experiences. I have a strong focus on Vue.js, Nuxt.js, Astro, and Ionic.
 
 ### Technologies
-- **Vue2/3** ![vue-js](https://icons8.com/icon/6WRLrWVAXidL/vue.js-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications)
+- **Vue2/3** ![vue-js](<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vue.js</title><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/></svg>)
 - **Nuxt.js**
 - **Astro**
 - **Ionic & Vue.js**

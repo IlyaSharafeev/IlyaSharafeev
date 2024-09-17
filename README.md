@@ -8,6 +8,7 @@ I am a passionate frontend developer specializing in creating high-quality web i
 
 ### Technologies
 - **Vue2/3**
+- **Angular**
 - **Nuxt.js**
 - **Astro**
 - **Ionic & Vue.js**

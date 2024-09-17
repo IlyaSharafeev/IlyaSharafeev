@@ -4,7 +4,7 @@
 ## Frontend Developer
 
 ### About Me
-I am a passionate frontend developer specializing in creating high-quality web interfaces and user experiences. I have a strong focus on Vue.js, Nuxt.js, Astro, and Ionic.
+I am a passionate frontend developer specializing in creating high-quality web interfaces and user experiences. I have a strong focus on Vue.js, Angular, Nuxt.js, Astro, and Ionic.
 
 ### Technologies
 - **Vue2/3**

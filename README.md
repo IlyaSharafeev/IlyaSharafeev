@@ -6,7 +6,7 @@
 ### 📫 Connect with Me:
 <p align="left">
 <a href="mailto:ilyasharafeev01@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/илья-шарафеев-6428891ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ilya-sharafeev-6428891ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
 <a href="https://github.com/IlyaSharafeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" height="30" width="30" /></a>
 <a href="https://t.me/IlyaSharafeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" alt="Telegram" height="30" width="30" /></a>
 </p>

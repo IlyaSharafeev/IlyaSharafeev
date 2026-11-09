@@ -1,9 +1,9 @@
 # Ilya Sharafeev
-### 🚀 Senior Frontend Engineer & Architect
 
----
+**Frontend Engineer — React / Next.js · Vue / Nuxt · Angular · TypeScript**
 
-### 📫 Connect with Me:
+Almost 5 years of commercial experience · remote from Bulgaria (EET) · open to full-time and long-term contract roles
+
 <p align="left">
 <a href="mailto:ilyasharafeev01@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/ilya-sharafeev-6428891ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
@@ -13,56 +13,38 @@
 
 ---
 
-### ✨ About Me
+### What I do
 
-I specialize in solving complex technical challenges, architecting scalable applications from scratch, and optimizing performance-critical systems. My passion is turning business needs into robust, maintainable code and driving technical excellence.
+- Build product frontends end to end: architecture, complex forms, auth, payments, tests in CI, performance.
+- Start from zero or join an existing codebase and work inside its conventions.
 
----
+### Experience
 
-### 🏆 Key Achievements
+**ORAP GmbH** — Frontend Developer · *Apr 2026 – now*
+Two live multi-language e-commerce storefronts on Nuxt with SSR (orap.de, handlerparts.com). Own orap.de's frontend almost end to end — 243 of 256 commits: catalogue, cart, bulk article search for wholesale, customer dashboard, PayPal checkout. Auth with rotating refresh tokens; led the Nuxt 3 → 4 upgrade on the live shop with tests written first; Vitest, Playwright and axe-core in CI.
 
--   **🏗️ Architected EdTech Ecosystem**: Built a multi-app platform from the ground up, cutting code duplication by **50%** with a monorepo strategy.
--   **⚡️ High-Performance SSR**: Engineered a Nuxt.js platform that slashed page load times by **35%** and boosted SEO.
--   **♻️ Complex Migration**: Led a migration from Vue 2 to Vue 3, reducing the legacy codebase by **40%** and increasing team velocity by **25%**.
--   **📉 Error Reduction**: Slashed runtime errors by **30%** by migrating a critical codebase to TypeScript.
--   **🖥️ UI Optimization**: Reduced UI CPU usage by **60%** on a real-time dashboard using advanced virtualization in React.
--   **💬 Real-Time Systems**: Designed a low-latency WebSocket system for **10,000+** concurrent users.
+**ICGS (Intercomputer Global Services GmbH)** — Frontend Developer · *Apr 2026 – Oct 2026*
+B2B e-money and payments platform (fintech, EMI). KYC / KYB onboarding for companies and individuals: multi-step forms, cross-field validation, file uploads, field-level review cycle with the back office. User profile app with 2-step verification (authenticator, SMS, passkeys). Angular 20–21, signals, RxJS, Vitest.
 
----
+**Gelios** — Founding Frontend Engineer · *Jan 2025 – Apr 2026*
+EdTech platform from zero on React / Next.js: student portal, teacher portal and CRM in one Turborepo monorepo with a shared data layer and a Storybook component library (−50% duplicated code). CRM tables with 1 000+ rows, RBAC, Stripe and PayPal; UI CPU usage −60% (list virtualisation, TanStack Query caching); real-time over WebSockets.
 
-### 🛠️ Technical Expertise
+**Onix-Systems** — Frontend Engineer · *Dec 2022 – Jan 2025*
+Client projects in FinTech, e-commerce and SaaS: Vue 2 → 3 migration (−40% legacy code), JavaScript → TypeScript migration (−30% runtime errors), SSR platform on Nuxt (35% faster first load), cross-platform mobile app on Ionic + Capacitor.
 
--   **React Ecosystem**: `React.js (v16-18)` `Next.js` `Redux Toolkit` `React Query` `Zustand`
--   **Vue Ecosystem**: `Vue.js (2 & 3)` `Nuxt.js` `Pinia` `Vuex` `Vite`
--   **Angular Ecosystem**: `Angular (v8+)` `RxJS` `NgRx`
--   **Languages & Styling**: `TypeScript (Expert)` `JavaScript (ESNext)` `Tailwind CSS (Expert)` `SASS/SCSS`
--   **Architecture & Patterns**: `Monorepo (Turborepo, Nx)` `Micro-Frontends` `Design Systems` `SOLID`
--   **Testing, DevOps & Tools**: `Jest` `Cypress` `GitLab CI` `GitHub Actions` `Docker` `Webpack` `Storybook`
--   **Platforms**: `AWS (S3, Lambda)` `Firebase` `Node.js`
+**Egolist** — Frontend Developer · *Jan 2022 – Dec 2022*
+Marketplace on Vue: WebSocket layer for 10 000+ concurrent connections, GitLab CI/CD (manual releases → one click).
 
----
+### Stack
 
-### 💼 Professional Experience
+- **React:** React 18, Next.js (App Router, SSR / SSG), TanStack Query, Zustand, Redux Toolkit, React Testing Library
+- **Vue:** Vue 3, Nuxt 3 & 4, Pinia, Vuex, Vuetify, Quasar
+- **Angular:** Angular 20–21, signals, RxJS, Reactive Forms, Angular Material
+- **Core:** TypeScript, Tailwind CSS, SCSS, Storybook, Turborepo
+- **Testing:** Vitest, msw, Playwright, axe-core, Jest, Cypress
+- **Backend & DevOps:** Node.js, REST, GraphQL, WebSockets, Docker, GitHub Actions, GitLab CI
 
-#### **Gelios** | Senior React Engineer (_Jan 2025 - Present_)
--   **Challenge**: Build a multi-faceted EdTech platform from scratch without code duplication.
--   **Solution**: Architected a unified frontend monorepo using **Turborepo**, enabling a shared component library and reducing code duplication by over **50%**.
+### Education & languages
 
-#### **Onix-Systems** | Frontend Engineer (_Dec 2022 - Dec 2024_)
--   **Challenge**: Overcome massive technical debt in a monolithic Vue 2 application.
--   **Solution**: Executed a phased migration to **Vue 3 and Pinia**, improving code reusability by **40%**.
--   **Challenge**: Poor performance and SEO on client-side rendered apps.
--   **Solution**: Built a new **SSR platform using Nuxt.js**, achieving sub-second load times.
-
-#### **Egolist** | Frontend Developer (_Dec 2021 - Nov 2022_)
--   **Challenge**: A manual, slow, and error-prone deployment process.
--   **Solution**: Designed and implemented a complete **automated CI/CD pipeline in GitLab**, enabling one-click releases.
-
----
-
-### 🎓 Education
-
--   **Master's Degree, Computer Science and Engineering**
-    -   Dnipro National University (_Expected 2025_)
--   **Bachelor's Degree, Computer Science and Engineering**
-    -   Dnipro National University (_2020 - 2024_)
+M.Sc. in Computer Science — Oles Honchar Dnipro National University, 2025
+Ukrainian — native · Russian — fluent · English — B1

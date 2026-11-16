@@ -1,51 +1,82 @@
-# Ilya Sharafeev
+<h1 align="center">Ilya Sharafeev</h1>
 
-**Full-Stack Engineer — React / Next.js · Vue / Nuxt · Angular · Node.js / NestJS · TypeScript**
+<p align="center">
+  <b>Full-Stack Engineer · TypeScript</b><br>
+  React / Next.js · Vue / Nuxt · Angular · Node.js / NestJS
+</p>
 
-Almost 5 years of commercial experience · remote from Bulgaria (EET) · open to full-time and long-term contract roles
+<p align="center">
+  Almost 5 years of commercial experience · Remote from Bulgaria (EET)<br>
+  Open to full-time and long-term contract roles · Available now
+</p>
 
-<p align="left">
-<a href="mailto:ilyasharafeev01@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/ilya-sharafeev-6428891ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://github.com/IlyaSharafeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" height="30" width="30" /></a>
-<a href="https://t.me/IlyaSharafeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" alt="Telegram" height="30" width="30" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ilya-sharafeev-6428891ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ilyasharafeev01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/IlyaSharafeev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs&perline=8" alt="TypeScript, React, Next.js, Vue, Nuxt, Angular, Node.js, NestJS"><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,graphql,docker,kubernetes,aws,githubactions&perline=8" alt="PostgreSQL, MongoDB, Redis, GraphQL, Docker, Kubernetes, AWS, GitHub Actions">
 </p>
 
 ---
 
-### What I do
+## What I do
 
-- Build products end to end in TypeScript: frontends on React, Vue and Angular, backends on Node.js / NestJS for the last two years.
-- Architecture, complex forms, auth, payments, tests in CI, performance.
-- Start from zero or join an existing codebase and work inside its conventions.
+- Build products end to end in TypeScript — frontend and backend
+- Architecture, complex forms, auth, payments, tests in CI
+- Start from zero or join an existing codebase and follow its conventions
 
-### Experience
+## Experience
 
-**ORAP GmbH** — Full-Stack Developer (NestJS / Nuxt) · *Apr 2026 – now*
-Two live multi-language e-commerce shops (orap.de, handlerparts.com): API on NestJS, storefront on Nuxt with SSR. The main API: catalogue and search, cart and orders, login with refresh tokens, PayPal payments. Own orap.de's frontend almost end to end — 243 of 256 commits: catalogue, cart, bulk article search for wholesale, customer dashboard, PayPal checkout. Led the Nuxt 3 → 4 upgrade on the live shop with tests written first; Vitest, Playwright and axe-core in CI.
+### ORAP GmbH — Full-Stack Developer
+<sub>Apr 2026 – now · NestJS, Nuxt</sub>
 
-**ICGS (Intercomputer Global Services GmbH)** — Full-Stack Developer (Angular / NestJS) · *Apr 2026 – Oct 2026*
-B2B e-money and payments platform (fintech, EMI). KYC / KYB onboarding for companies and individuals: multi-step forms, cross-field validation, file uploads, field-level review cycle with the back office. A NestJS service behind it: form API, server-side PDF, login and 2FA, schema and migrations on PostgreSQL and MS SQL Server. User profile app with 2-step verification (authenticator, SMS, passkeys). Angular 20–21, signals, RxJS, NestJS, Vitest.
+- Two live multi-language e-commerce shops: NestJS API and Nuxt SSR storefront
+- Catalogue, search, cart, orders, PayPal checkout, refresh-token login
+- Led the Nuxt 3 → 4 upgrade on the live shop; Vitest, Playwright and axe-core in CI
 
-**Gelios** — Founding Full-Stack Engineer · *Jan 2025 – Apr 2026*
-EdTech platform from zero as the first engineer. The whole backend on NestJS: REST and GraphQL API on PostgreSQL, MySQL, MongoDB and Redis, JWT auth with roles, Stripe and PayPal with webhooks, a WebSocket server, file uploads, Docker and CI/CD. Frontend on React / Next.js: student portal, teacher portal and CRM in one Turborepo monorepo with a shared data layer and a Storybook component library; CRM tables with 1 000+ rows kept smooth with list virtualisation and TanStack Query caching.
+### ICGS — Full-Stack Developer
+<sub>Apr 2026 – Oct 2026 · Angular, NestJS · fintech</sub>
 
-**Onix-Systems** — Frontend Engineer · *Dec 2022 – Jan 2025*
-Client projects in FinTech, e-commerce and SaaS: phased Vue 2 → 3 migration with typed Pinia stores, JavaScript → TypeScript migration with strict typing, an SSR platform on Nuxt with caching and code splitting, a cross-platform mobile app on Ionic + Capacitor.
+- B2B e-money and payments platform
+- KYC / KYB onboarding: multi-step forms, file uploads, back-office review
+- NestJS service: form API, server-side PDF, 2FA, background jobs on RabbitMQ / Bull
 
-**Egolist** — Frontend Developer · *Jan 2022 – Dec 2022*
-Marketplace on Vue: WebSocket layer for 10 000+ concurrent connections, GitLab CI/CD (manual releases → one click).
+### Gelios — Founding Full-Stack Engineer
+<sub>Jan 2025 – Apr 2026 · NestJS, Next.js, React Native · EdTech</sub>
 
-### Stack
+- First engineer: built the platform from zero
+- Backend on NestJS: REST and GraphQL, PostgreSQL, MongoDB, Redis, Stripe and PayPal, WebSockets
+- Student portal, teacher portal and CRM on Next.js in a Turborepo monorepo, plus a React Native app
 
-- **React:** React 18, Next.js (App Router, SSR / SSG), TanStack Query, Zustand, Redux Toolkit, React Testing Library
-- **Vue:** Vue 3, Nuxt 3 & 4, Pinia, Vuex, Vuetify, Quasar
-- **Angular:** Angular 20–21, signals, RxJS, Reactive Forms, Angular Material
-- **Core:** TypeScript, Tailwind CSS, SCSS, Storybook, Turborepo
-- **Testing:** Vitest, msw, Playwright, axe-core, Jest, Cypress
-- **Backend & DevOps:** Node.js, NestJS, PostgreSQL, MongoDB, MySQL, Redis, REST, GraphQL, WebSockets, Docker, GitHub Actions, GitLab CI
+### Onix-Systems — Frontend Engineer
+<sub>Dec 2022 – Jan 2025 · Vue, Nuxt</sub>
 
-### Education & languages
+- FinTech, e-commerce and SaaS client projects
+- Vue 2 → 3 and JavaScript → TypeScript migrations, Nuxt SSR platform
+- Cross-platform mobile app on Ionic + Capacitor
 
-M.Sc. in Computer Science — Oles Honchar Dnipro National University, 2025
-Ukrainian — native · Russian — fluent · English — B2 (upper-intermediate)
+### Egolist — Frontend Developer
+<sub>Jan 2022 – Dec 2022 · Vue</sub>
+
+- Marketplace: WebSocket layer for 10 000+ concurrent connections
+- GitLab CI/CD: manual releases → one click
+
+## Stack
+
+| Area | Tools |
+|---|---|
+| **Frontend** | React, Next.js, Vue 3, Nuxt 3 / 4, Angular 20–21, React Native, Tailwind CSS |
+| **State** | TanStack Query, Zustand, Pinia, RxJS, signals |
+| **Backend** | Node.js, NestJS, REST, GraphQL, WebSockets, RabbitMQ, Bull |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
+| **Testing** | Vitest, Jest, Playwright, Cypress, msw |
+| **DevOps** | Docker, Kubernetes, GitHub Actions, GitLab CI, AWS |
+
+## Education & languages
+
+- M.Sc. in Computer Science — Oles Honchar Dnipro National University, 2025
+- Ukrainian — native · Russian — fluent · English — B2
